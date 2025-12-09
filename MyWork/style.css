@@ -1,0 +1,11 @@
+.showSent {
+    background-color: #BDB5D5;
+    padding: 5% 10%;
+    margin: 1rem 10%;
+    border: solid thick #702963;
+    text-align: center;
+}
+
+.row input {
+    width: 90%;
+}
